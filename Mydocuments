@@ -1,0 +1,4 @@
+!#bin/bash/sh
+name: documents
+echo \\C:\Users\krish\name $ basename "PWD"
+done
